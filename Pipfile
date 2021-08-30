@@ -11,6 +11,7 @@ ipykernel = "*"
 matplotlib = "*"
 seaborn = "*"
 yfinance = "*"
+pyptax = "*"
 
 [dev-packages]
 
